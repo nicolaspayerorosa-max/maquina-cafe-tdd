@@ -11,3 +11,6 @@ Proyecto de una máquina dispensadora de café desarrollada con **T.D.D.** (Test
 ```
 mvn test
 ```
+
+## Integrante
+Nicolas Payero - Matricula 2025-1151
